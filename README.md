@@ -26,6 +26,7 @@ Input data: changedata.mb and E003989_data.txt (contained in the data.zip)
 Output data: Dmean.txt
 
 Running pipeline: networkbuild.R, which has been tested in in R 4.2.1.
+
 Displaying result running pipeline: MNRS_curve.m, which has been tested in Matlab R2021a.
 ## Citation
 Qiao Wei, Jiayuan Zhong, et al. MNRS：multi-factor network-based ranking score for revealing critical states of complex diseases based on gut microbiome data
